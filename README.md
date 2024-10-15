@@ -1,2 +1,2 @@
 # SNEHA
-My Porject
+My Project
